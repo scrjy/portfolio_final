@@ -10,7 +10,7 @@ const Footer = () => {
       <motion.div whileHover={{ scale: 1.2 }} whileTap={{ scale: 0.8 }}>
         <a
           className=""
-          href="https://www.instagram.com/"
+          href="https://www.instagram.com/04_jitang/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -44,7 +44,7 @@ const Footer = () => {
       <motion.div whileHover={{ scale: 1.2 }} whileTap={{ scale: 0.8 }}>
         <a
           className=""
-          href="https://facebook.com/"
+          href="https://www.facebook.com/profile.php?id=100007622923082"
           target="_blank"
           rel="noopener noreferrer"
         >

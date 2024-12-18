@@ -18,6 +18,7 @@ const Project = () => {
             </a>
           </p>
         </li>
+        <br />
         <li className="mb-4">
           <p className="text-xl font-semibold">Vercel</p>
           <p className="mt-2">
@@ -30,6 +31,8 @@ const Project = () => {
             </a>
           </p>
         </li>
+        <br />
+        <br />
         <li className="mb-4">
           <p className="text-xl font-semibold">MongoDB</p>
           <p className="mt-2">

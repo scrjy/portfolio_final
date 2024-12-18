@@ -4,13 +4,13 @@ const Contact = () => {
   return (
     <div>
       <br />
-      <p>휴대전화 : 010-0000-0000</p>
+      <p>휴대전화 : 010-9298-7549</p>
       <br />
-      <p>이메일 : email0000@email.com</p>
-      <br />
-      <p>카카오톡 ID : abcd0000</p>
+      <p>이메일 : sjyplus1@gmail.com</p>
       <br />
       <p>인스타그램 : @instagram0000</p>
+      <br />
+      <p>디스코드 ID : sosimhanteolmungci</p>
       <br />
       <ul className="mt-4">
         <li className="mb-4">
