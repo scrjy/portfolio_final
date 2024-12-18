@@ -16,7 +16,7 @@ const Contact = () => {
         <li className="mb-4">
           <p className="mt-2">
             <a
-              href="https://github.com/scrjy?tab=repositories"
+              href="https://fianl-dob.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
             >
