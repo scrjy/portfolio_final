@@ -8,7 +8,7 @@ const Contact = () => {
       <br />
       <p>이메일 : sjyplus1@gmail.com</p>
       <br />
-      <p>인스타그램 : @instagram0000</p>
+      <p>인스타그램 : @04_jitang</p>
       <br />
       <p>디스코드 ID : sosimhanteolmungci</p>
       <br />
